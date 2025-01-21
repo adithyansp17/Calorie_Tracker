@@ -1,6 +1,6 @@
 # calorie_tracker
 
-A new Flutter project.
+A new Flutter project which keep track of calorie consumed by the user. Integrated with gemini api so it browse the web to get the calorie present in the entered food.
 
 ## Getting Started
 
